@@ -1,1 +1,3 @@
 NewDay.txt
+______
+some code
