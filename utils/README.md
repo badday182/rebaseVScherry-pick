@@ -101,6 +101,7 @@ To child commit
 
 create commit one
 create commit two
-move head to commit one
-create commit three
++ move head to commit one
++ create commit three
+observe git tree
 
