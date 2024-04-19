@@ -8,6 +8,9 @@
 
 # New section for Valera
 
+# yet enother section
+
+
 
 # Statement
 
@@ -32,16 +35,19 @@ expected new hashes in feature
 reprodused!
 
 
-main
-branch from main
-new commit in feature
-new commit in feature
++ main
++ branch from main
++ new commit in feature
++ new commit in feature
 push feature branch to remote
 new commit in main (divergency main and feature branch)
 marge main in to feature
 push
 
 expected new same hasher in feature
+
+
+
 
 
 # Author
