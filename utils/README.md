@@ -91,3 +91,16 @@ and recreate last (head) commit with new hash
 
 to do: make marge with different approach and note the difference
 
+
+
+
+
+
+
+To child commit
+
+create commit one
+create commit two
+move head to commit one
+create commit three
+
