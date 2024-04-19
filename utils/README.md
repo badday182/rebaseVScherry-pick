@@ -105,3 +105,5 @@ create commit two
 + create commit three
 observe git tree
 
+in case when we create commit from detached head
+from not head commit this new commit remind dangling, and cant be accesseble without direct checkout by hash
