@@ -11,6 +11,7 @@
 # yet enother section
 
 
+
 # Statement
 
 ## Hashes
@@ -34,16 +35,19 @@ expected new hashes in feature
 reprodused!
 
 
-main
-branch from main
-new commit in feature
-new commit in feature
++ main
++ branch from main
++ new commit in feature
++ new commit in feature
 push feature branch to remote
 new commit in main
 marge main in to feature
 force push
 
 expected new same hasher in feature
+
+
+
 
 
 # Author
