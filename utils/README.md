@@ -44,18 +44,36 @@ reprodused!
 + marge main in to feature
 + push
 
-main
-branch from main
-new commit in feature
-push feature branch to remote
-new commit in main
-new commit in feature
-new commit in main
-marge main in to feature
-push
++ main
++ branch from main
++ new commit in feature
++ push feature branch to remote
++ new commit in main
++ new commit in feature
++ new commit in main
++ marge main in to feature
++ push
 pull request rebase merge
 
 expected new same hasher in feature
+
+
+git log and commits in github show commits in order of commit date
+not it order of legassy (parrent/child) relations
+
+local rebase give different result than github rebare
+
+we add 3rd commit to main before rebase to main feature branch
+
+in github it take all commits from main without changes
+and recreate all commits from feature branch with new hashes
+and remeve marge commit from feature branch
+
+in local rebase
+it take all commits from feature without chang
+put it in to main
+and recreate last 3rd commit in main with new hash
+
 
 
 
