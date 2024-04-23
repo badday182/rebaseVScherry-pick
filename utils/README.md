@@ -120,3 +120,29 @@ and recreate last (head) commit with new hash
 
 to do: make marge with different approach and note the difference
 
+
+
+
+
+
+cherry-pick
+
+main 
+new branch ch1 and ch2
+new four commit to ch1
+cherry-pick defoult
+cherry-pick edit
+cherry-pick no-commit
+cherry-pick signoff
+
+
+
+
+
+last main 
+checkout -b ch3
+git reset --hard HEAD~10 
+chirry-pick commit 1
+chirry-pick 4
+chirry-pick 8
+
