@@ -146,3 +146,15 @@ chirry-pick commit 1
 chirry-pick 4
 chirry-pick 8
 
+
+
+# interective rebase
+
+# git squash commits
+
+
+# HEAD~3
+notation to pick commit without hash, by count
+
+
+
