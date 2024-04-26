@@ -149,12 +149,25 @@ chirry-pick 8
 
 
 # interective rebase
+main
+branch from main
+new commit in feature
+push feature branch to remote
+new commit in main
+new commit in feature
+new commit in main
+rebase i, main in to feature
+push
+pull request rebase merge
+
+
 
 # git squash commits
 
 
 # HEAD~3
 notation to pick commit without hash, by count
+
 
 
 
